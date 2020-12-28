@@ -9,4 +9,5 @@ So, for example maybe,
 - they know you are a support to them
 - they are looking to know you understand how tiring their day was
 - they'll appreciate interactions that only reduce how tired they are
-- "here, take my seat if you want somewhere to sit down" would meet all meaning parts.  a user could tell the system that this is true.
+- "here, take my seat if you want somewhere to sit down" would meet all meaning parts above.  a user could tell the system that this is true.
+- their days are weary in general (or they would have had capacity for this one)
