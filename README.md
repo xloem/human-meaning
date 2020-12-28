@@ -1,4 +1,4 @@
-The idea is that your brain can get "exhausted" by the implications of what everyone says and does around you, and that training exercises can increase its capacity to understand, hold, and act on these.  (They then give you more capacity in return.)
+The idea is that your brain can get "exhausted" by the implications of what everyone says and does around you, and that training exercises can increase its capacity to understand, hold, and act on these.  (Others then give you more capacity in return.)
 
 Could be a quiz: give human expressions, and ask the user to provide what they mean.  accept all answers but learn to unify them into human input.  Teach the user to respond in ways that include more and more of them.
 
